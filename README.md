@@ -137,3 +137,44 @@ The application uses Room Database to locally store:
 
 ```bash
 git clone https://github.com/shainazbegums/Jenu-Gumpu-App.git
+```
+
+2. Open the project in Android Studio
+
+3. Sync Gradle files
+
+4. Run the application using emulator or Android device
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Dashboard Screen
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🍯 Harvest Screen
+![Harvest](screenshots/harvest.png)
+
+---
+
+## 📦 Collective Stock Screen
+![Collective Stock](screenshots/collectivestock.png)
+
+---
+
+## 🤖 AI Honey Scanner
+![AI Scanner](screenshots/AIscanner.png)
+
+---
+
+# 👩‍💻 Developer
+
+Shainaz Begum S
+
+---
+
+# 📄 License
+
+This project is developed for academic and educational purposes.
